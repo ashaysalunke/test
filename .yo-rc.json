@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ashay.test"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "monolith",
+    "baseName": "test",
+    "packageName": "com.ashay.test",
+    "packageFolder": "com/ashay/test",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGNiNTllMDEzZTdhYmY0ZmVlM2JkNjhiMGMxYzRmNTg2OTEzOGFhODFmMmVkOTQ4OTUyYzVlNGEyZjA5NDliZGI4MWNkNmUyOThkMmE3MzgyNDQxN2ExOTM2NDEyMjhhNDg5MDU2MmFmNzdjY2Y1YWQ5Y2I3NGYwNjIwY2IwYzc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1598130043090,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
